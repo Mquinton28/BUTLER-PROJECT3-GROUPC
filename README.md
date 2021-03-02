@@ -13,11 +13,12 @@ Several tools will be used to inspect and clean the datasets. Scikit-Learn will 
 
 ## Dataset:
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/ 
+- The red csv
 
 ## Proposal:
-As a wine aficionado, I chose to look into wine quality and how machine learning can detect whether a selected wine can be classified as “good quality” or “bad quality” based on certain physio-chemical characteristics of the wine.
+We chose to analyze wine quality and how machine learning can detect whether a selected wine can be classified as “good quality” or “bad quality” based on certain physio-chemical characteristics of the wine.
 
-People’s opinions about wines are always different where some prefer a certain kind over another based on their taste preferences or based on preset beliefs about a certain brand or price tag.  Machine learning can play a role in providing an objective result based on the composition of the wine rather than sensory result provided by a human. 
+People’s opinions about wines are very subjective, where some prefer a certain kind over another based on their taste preferences, cork vs. screw top, preset beliefs about a certain brand or price tag. Machine learning can play a role in providing an objective result based on the composition of the wine rather than sensory result provided by a human. 
 
 The dataset selected from Kaggle contains data about red and white wine variants of the Portuguese "Vinho Verde" wine. The data contains features of wine to be used for this project to predict an output of “good”or “bad” quality based on a preset scale: 0-10.
 
